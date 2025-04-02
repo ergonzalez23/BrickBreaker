@@ -7,3 +7,5 @@ Controls for this game are to move the paddle use keyboard buttons A (left) or D
 Still need to add a 2nd level with the option of adding permanent powerups and/or an option to increase you life count. At the moment I have not added a winning scenario for beating the first level but will add it in due time.
 
 This was my first attempt at making my own game after watching many tuturial vidoes on YouTube. There is no specific guide I followed for game play mechanics but there is a guide I followed to help create the setting UI.
+
+Update.
